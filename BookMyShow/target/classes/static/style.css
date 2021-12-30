@@ -1,0 +1,42 @@
+.container {
+	border-radius: 5%;
+	margin-top: 10%;
+}
+
+.jumbo {
+	background-color: #db7093;
+	width: 100%;
+	height: 70px;
+	border-radius: 3%;
+}
+
+form {
+	padding: 5% 10%;
+}
+
+h1 {
+	text-align: center;
+}
+
+.input {
+	height: 30px;
+	width: 70%;
+	float:right;
+}
+
+.btn {
+	margin: 2% 45%;
+}
+
+.signup {
+	text-align: center;
+	text-decoration: none;
+}
+
+.center {
+	margin-left: 40%;
+}
+
+.login {
+	background-color: pink;
+}
